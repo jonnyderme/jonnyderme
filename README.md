@@ -4,12 +4,20 @@
 
 Hello stranger! My name is Ioannis Deirmentzoglou and I'm an undergraduated Electrical and Computer Engineering student in my final year, about to graduate with an integrated master’s degree from the School of Engineering. Throughout my academic journey, I’ve specialized in **machine learning, deep learning, computer vision, and digital systems design**, exploring how intelligent systems can process, analyze, and make decisions from data.
 
-Looking ahead, I’m committed to continuing my research and expanding my expertise in AI and hardware systems. At the same time, I’m eager to broaden my knowledge in economics, business, and entrepreneurship, with plans to pursue further studies in fields like MBA and explore opportunities for integrating technology with business strategies.
+💡Looking ahead, I’m committed to continuing my research and expanding my expertise in AI and hardware systems. At the same time, I’m eager to broaden my knowledge in economics, business, and entrepreneurship, with plans to pursue further studies in fields like MBA and explore opportunities for integrating technology with business strategies.
 
 
 💡I’m interested about applying artificial intelligence and computational techniques to solve complex problems across multiple domains—from image processing and hardware acceleration to prediction systems, smart grids, power systems analysis, and automation. 
 I’m particularly drawn to the intersection of machine learning and hardware design, exploring how intelligent algorithms can be embedded, accelerated, and optimized directly at the hardware level for efficient, real-time applications. 
 I’m eager to explore the implementation of deep learning and neural networks on hardware platforms like FPGAs, addressing challenges such as resource optimization, parallelism, low-latency inference, and hardware-software co-design.
+
+---
+## 📬 Contact Information
+
+- **Academic Email**: ***deirmentz@ece.auth.gr***
+- **Personal Email**: ***ioannisdeirmentzoglou@gmail.com***
+- **Work Email**:***johnd@3minvestments.gr***
+- **LinkedIn**: [click here]()
 
 ---
 
@@ -23,10 +31,10 @@ I’m eager to explore the implementation of deep learning and neural networks o
 ### 📚 Selected Courses and Academic Projects:
 - **Machine Learning, Data Analysis & Intelligent Computing**
   - Data Analysis: *Statistical Analysis of Meteorological Data using Parametric and Non-Parametric Methods*
-  - Pattern Recognition and Machine Learning: *Maximum Likelihood, Bayesian Methods, Decision Trees, Random Forests for Stress Detection, Multiclass Classification on High-Dimensional Data*
+  - Pattern Recognition and Machine Learning: *Maximum Likelihood, Bayesian Methods, Decision Trees, Random Forests for Stress Detection, Multiclass Classification on High-Dimensional Data using Supervised Learning Techniques*
   - Machine Learning: *Linear Models, Decision Trees & Model Evaluation, Ensemble Models*
-  - Neural Networks and Deep Learning: *Custom Implementations of SVM, MLP, RBF Neural Networks, CNNs, Autoencoders*
-  - Computational Intelligence: *Fuzzy Logic for Closed-Loop Optimization, Autonomous Vehicle Path Tracking, Regression Models for Physical Systems*
+  - Neural Networks and Deep Learning: *Neural Network Architectures and Hybrid Models with Custom Implementations (SVM, MLP, and RBF NNs from scratch, CNNs, Autoencoders)*
+  - Computational Intelligence: *Fuzzy Logic vs. PI Control for Closed-Loop System Optimization, Autonomous Vehicle Path Tracking with FLC, Regression Modeling of Physical Systems, Real-World data classification using Supervised Learning.*
   
 - **Computer Vision & Multimedia**
   - Digital Image Processing: *RAW to RGB Image Conversion: RAW Image Interpolation and Color Space Conversion, OCR: Automatic Optical Character Recognition Using Fourier Descriptors, Feature Extraction and Matching using Harris Corners and RANSAC method*
@@ -90,17 +98,6 @@ I’m eager to explore the implementation of deep learning and neural networks o
 - Statistical Data Analysis
 
 ---
-
-
-
-## 📬 Contact Information
-
-- **Academic Email**: ***deirmentz@ece.auth.gr***
-- **Personal Email**: ***ioannisdeirmentzoglou@gmail.con***
-- **LinkedIn**: [click here]()
-
----
-
 ### 🌟 Let’s Connect
 
 Feel free to explore my repositories and reach out if you’d like to collaborate on a project or have a chat about AI, computer vision, or hardware design!
