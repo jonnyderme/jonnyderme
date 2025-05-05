@@ -4,9 +4,12 @@
 
 Hello stranger! My name is Ioannis Deirmentzoglou and I'm an undergraduated Electrical and Computer Engineering student in my final year, about to graduate with an integrated master’s degree from the School of Engineering. Throughout my academic journey, I’ve specialized in **machine learning, deep learning, computer vision, and digital systems design**, exploring how intelligent systems can process, analyze, and make decisions from data.
 
-💡I’m interested about applying artificial intelligence and computational techniques to solve complex problems across multiple domains—from image processing and hardware acceleration to prediction systems, smart grids, power systems analysis, and automation. I’m particularly drawn to the intersection of machine learning and hardware design, exploring how intelligent algorithms can be embedded, accelerated, and optimized directly at the hardware level for efficient, real-time applications. I’m eager to explore the implementation of deep learning and neural networks on hardware platforms like FPGAs, addressing challenges such as resource optimization, parallelism, low-latency inference, and hardware-software co-design.
+Looking ahead, I’m committed to continuing my research and expanding my expertise in AI and hardware systems. At the same time, I’m eager to broaden my knowledge in economics, business, and entrepreneurship, with plans to pursue further studies in fields like MBA and explore opportunities for integrating technology with business strategies.
 
 
+💡I’m interested about applying artificial intelligence and computational techniques to solve complex problems across multiple domains—from image processing and hardware acceleration to prediction systems, smart grids, power systems analysis, and automation. 
+I’m particularly drawn to the intersection of machine learning and hardware design, exploring how intelligent algorithms can be embedded, accelerated, and optimized directly at the hardware level for efficient, real-time applications. 
+I’m eager to explore the implementation of deep learning and neural networks on hardware platforms like FPGAs, addressing challenges such as resource optimization, parallelism, low-latency inference, and hardware-software co-design.
 
 ---
 
@@ -26,20 +29,21 @@ Hello stranger! My name is Ioannis Deirmentzoglou and I'm an undergraduated Elec
   - Computational Intelligence: *Fuzzy Logic for Closed-Loop Optimization, Autonomous Vehicle Path Tracking, Regression Models for Physical Systems*
   
 - **Computer Vision & Multimedia**
-  - Digital Image Processing: *RAW to RGB Image Conversion, OCR, Feature Extraction & Matching (RANSAC)*
-  - Computer Graphics: *Scanline Rasterization, 3D Scene Projection, Lighting & Texture Mapping*
+  - Digital Image Processing: *RAW to RGB Image Conversion: RAW Image Interpolation and Color Space Conversion, OCR: Automatic Optical Character Recognition Using Fourier Descriptors, Feature Extraction and Matching using Harris Corners and RANSAC method*
+  - Computer Graphics: *Triangle Rasterization and Shading with Bresenham’s Line Algorithm, Development of a 3D-to-2D perspective projection system, Lighting and Texture Mapping in 3D Scene Rendering*
   - Multimedia Systems: *JPEG Encoder/Decoder (ISO/IEC 10918-1:1994)*
 
 - **Digital & Hardware Systems**
   - Electronics I-III: *Operational Amplifier Design for Signal Processing*
   - Digital Systems HW I: *RISC-V Processor Design (Verilog)*
-  - Digital Systems HW II: *IEEE-754 Floating Point Multiplier (SystemVerilog)*
+  - Digital Systems HW II: *Implementation of a floating-point multiplier based on the IEEE-754 standard (SystemVerilog)*
   - VLSI/Analog Design: *Telescopic OTA Design & Layout*
-  - VLSI-ASIC/Digital Design: *Full ASIC Design Flow for RISC-V Core*
+  - VLSI-ASIC/Digital Design: *Full ASIC design flow: synthesis, placement, optimization of a RISC-V processor core: synthesis, placement, optimization, and verification*
 
 - **Optimization & Operations Research**
-  - Optimization Techniques: *Development of Genetic Algorithm for Low-Complexity Function Approximation*
+  - Optimization Techniques: *Implementation of optimization algorithms for unconstrained/constrained problems, development of a genetic algorithm for low-complexity function approximation*
   - Operational Research: *Production Scheduling & Profit Optimization*
+  - Electrical Power Systems Analysis: *Optimal scheduling and functionality of thermal and hydroelectric generation units*
 
 - **Networks & Communication**
   - Computer Networks I: *Virtual Modem Communication & Remote Data Retrieval*
@@ -87,14 +91,7 @@ Hello stranger! My name is Ioannis Deirmentzoglou and I'm an undergraduated Elec
 
 ---
 
-## 🎨 Hobbies
 
-- **✈️ Traveling**: Exploring new places and cultures.
-- **💡 Learning About New Technologies**: Staying updated with the latest innovations.
-- **📚 Personal Development & Financial Literacy**
-- **🎵 Music / [add another hobby if relevant]**: ***insert here***
-
----
 
 ## 📬 Contact Information
 
@@ -107,7 +104,7 @@ Hello stranger! My name is Ioannis Deirmentzoglou and I'm an undergraduated Elec
 ### 🌟 Let’s Connect
 
 Feel free to explore my repositories and reach out if you’d like to collaborate on a project or have a chat about AI, computer vision, or hardware design!
-
-Thanks for visiting my profile! 😊
+Do not hesitate to contact me!
+Thanks for visiting my profile! 
 
 -->
