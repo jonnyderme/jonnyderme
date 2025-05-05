@@ -1,8 +1,8 @@
-# 💻 Welcome to My GitHub Profile!
+# 💻 Welcome to Derme's Github Profile!
 
 ## 👋 About Me
 
-Hello there! I'm an Undergraduated Electrical and Computer Engineering student in my final year, about to graduate with an integrated master’s degree from the School of Engineering. Throughout my academic journey, I’ve specialized in **machine learning, deep learning, computer vision, and digital systems design**, exploring how intelligent systems can process, analyze, and make decisions from data.
+Hello stranger! My name is Ioannis Deirmentzoglou and I'm an undergraduated Electrical and Computer Engineering student in my final year, about to graduate with an integrated master’s degree from the School of Engineering. Throughout my academic journey, I’ve specialized in **machine learning, deep learning, computer vision, and digital systems design**, exploring how intelligent systems can process, analyze, and make decisions from data.
 
 💡I’m interested about applying artificial intelligence and computational techniques to solve complex problems across multiple domains—from image processing and hardware acceleration to prediction systems, smart grids, power systems analysis, and automation. I’m particularly drawn to the intersection of machine learning and hardware design, exploring how intelligent algorithms can be embedded, accelerated, and optimized directly at the hardware level for efficient, real-time applications. I’m eager to explore the implementation of deep learning and neural networks on hardware platforms like FPGAs, addressing challenges such as resource optimization, parallelism, low-latency inference, and hardware-software co-design.
 
@@ -10,7 +10,7 @@ Hello there! I'm an Undergraduated Electrical and Computer Engineering student i
 
 ---
 
-## 🎓 Academic Achievements
+## 🎓 Academic Profile
 
 - **Integrated Master’s in Electrical and Computer Engineering** (Graduation: December 2025)
 - **Diploma Thesis (In Progress)**  
@@ -20,7 +20,7 @@ Hello there! I'm an Undergraduated Electrical and Computer Engineering student i
 ### 📚 Selected Courses and Academic Projects:
 - **Machine Learning, Data Analysis & Intelligent Computing**
   - Data Analysis: *Statistical Analysis of Meteorological Data using Parametric and Non-Parametric Methods*
-  - Pattern Recognition: *Maximum Likelihood, Bayesian Methods, Decision Trees, Random Forests for Stress Detection, Multiclass Classification on High-Dimensional Data*
+  - Pattern Recognition and Machine Learning: *Maximum Likelihood, Bayesian Methods, Decision Trees, Random Forests for Stress Detection, Multiclass Classification on High-Dimensional Data*
   - Machine Learning: *Linear Models, Decision Trees & Model Evaluation, Ensemble Models*
   - Neural Networks and Deep Learning: *Custom Implementations of SVM, MLP, RBF Neural Networks, CNNs, Autoencoders*
   - Computational Intelligence: *Fuzzy Logic for Closed-Loop Optimization, Autonomous Vehicle Path Tracking, Regression Models for Physical Systems*
@@ -98,9 +98,9 @@ Hello there! I'm an Undergraduated Electrical and Computer Engineering student i
 
 ## 📬 Contact Information
 
-- **Email**: ***your email here (if different)***
-- **LinkedIn**: [click here](https://www.linkedin.com/in/panagiotis-karvounaris-2995b125a/)
-- **Portfolio Website**: ***add link if you have one***
+- **Academic Email**: ***deirmentz@ece.auth.gr***
+- **Personal Email**: ***ioannisdeirmentzoglou@gmail.con***
+- **LinkedIn**: [click here]()
 
 ---
 
