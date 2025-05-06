@@ -4,12 +4,11 @@
 
 Hello stranger! My name is Ioannis Deirmentzoglou and I'm an undergraduated Electrical and Computer Engineering student in my final year, about to graduate with an integrated master’s degree from the School of Engineering. Throughout my academic journey, I’ve specialized in **machine learning, deep learning, computer vision, and digital systems design**, exploring how intelligent systems can process, analyze, and make decisions from data.
 
-💡Looking ahead, I’m committed to continuing my research and expanding my expertise in AI and hardware systems. At the same time, I’m eager to broaden my knowledge in economics, business, and entrepreneurship, with plans to pursue further studies in fields like MBA and explore opportunities for integrating technology with business strategies.
-
-
 💡I’m interested about applying artificial intelligence and computational techniques to solve complex problems across multiple domains—from image processing and hardware acceleration to prediction systems, smart grids, power systems analysis, and automation. 
 I’m particularly drawn to the intersection of machine learning and hardware design, exploring how intelligent algorithms can be embedded, accelerated, and optimized directly at the hardware level for efficient, real-time applications. 
 I’m eager to explore the implementation of deep learning and neural networks on hardware platforms like FPGAs, addressing challenges such as resource optimization, parallelism, low-latency inference, and hardware-software co-design.
+
+💡Looking ahead, I’m committed to continuing my research and expanding my expertise in AI and hardware systems. At the same time, I’m eager to broaden my knowledge in economics, business, and entrepreneurship, with plans to pursue further studies in fields like MBA and explore opportunities for integrating technology with business strategies.
 
 ---
 ## 📬 Contact Information
@@ -21,8 +20,9 @@ I’m eager to explore the implementation of deep learning and neural networks o
 
 ---
 
-## 🎓 Academic Profile
+## 🎓 Academic Profile 
 
+## 💡Diploma Thesis
 - **Integrated Master’s in Electrical and Computer Engineering** (Graduation: December 2025)
 - **Diploma Thesis (In Progress)**  
   - Title: *“Development of an Adaptive Machine Learning Model for Food Type Prediction in Multiple Environments and Requirements”*  
@@ -73,20 +73,33 @@ I’m eager to explore the implementation of deep learning and neural networks o
 
 ## 🛠️ Skills
 
-### Programming Languages:
+### 👨‍💻 Programming Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-FFA500?style=for-the-badge&logo=verilog&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-FF4500?style=for-the-badge&logo=systemverilog&logoColor=white)
+![MIPS Assembly](https://img.shields.io/badge/-MIPS-6E4C13?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools and Frameworks:
+---
+
+### 🧰 Tools and Frameworks:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Simulink](https://img.shields.io/badge/-Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AMPL](https://img.shields.io/badge/-AMPL-800080?style=for-the-badge)
+![GAMS](https://img.shields.io/badge/-GAMS-000000?style=for-the-badge)
+![Cadence](https://img.shields.io/badge/-Cadence-AF1E2D?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/-Networking-4682B4?style=for-the-badge)
+
+---
 
 ### Additional Skills:
 - Digital Image Processing
