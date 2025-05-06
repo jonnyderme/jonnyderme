@@ -1,6 +1,6 @@
 # 💻 Welcome to Derme's Github Profile!
 
-## 👋 About Me
+## 👋 Introduction 
 
 Hello stranger! My name is Ioannis Deirmentzoglou and I'm an undergraduated Electrical and Computer Engineering student in my final year, about to graduate with an integrated master’s degree from the School of Engineering. Throughout my academic journey, I’ve specialized in **machine learning, deep learning, computer vision, and digital systems design**, exploring how intelligent systems can process, analyze, and make decisions from data.
 
