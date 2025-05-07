@@ -4,6 +4,11 @@
 
 Hello stranger! My name is Ioannis Deirmentzoglou and I'm an undergraduated Electrical and Computer Engineering student in my final year, about to graduate with an integrated master’s degree from the School of Engineering. Throughout my academic journey, I’ve specialized in **machine learning, deep learning, computer vision, and digital systems design**, exploring how intelligent systems can process, analyze, and make decisions from data.
 
+What I ve done so far? 
+I gained a strong foundation in programming using especially Python, MATLAB. Gained experience in data science and machine learning, including supervised and unsupervised learning, deep neural networks, model evaluation techniques and computational intelligence. Worked with optimization tools and methods such as AMPL, GAMS, classical algorithms, and genetic algorithms. Acquired skills in digital and analog design using Verilog, System Verilog and Cadence Tools.
+Studied digital image processing, multimedia systems, and computer graphics within the scope of computer vision. Applied network programming concepts in Java, including VoIP and UDP-based communication. Strengthened presentation skills through PowerPoint-based technical assignments and academic paper reviews.
+
+
 💡I’m interested about applying artificial intelligence and computational techniques to solve complex problems across multiple domains—from image processing and hardware acceleration to prediction systems, smart grids, power systems analysis, and automation. 
 I’m particularly drawn to the intersection of machine learning and hardware design, exploring how intelligent algorithms can be embedded, accelerated, and optimized directly at the hardware level for efficient, real-time applications. 
 I’m eager to explore the implementation of deep learning and neural networks on hardware platforms like FPGAs, addressing challenges such as resource optimization, parallelism, low-latency inference, and hardware-software co-design.
