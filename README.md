@@ -20,7 +20,7 @@ I’m eager to explore the implementation of deep learning and neural networks o
 
 - **Academic Email**: ***deirmentz@ece.auth.gr***
 - **Personal Email**: ***ioannisdeirmentzoglou@gmail.com***
-- **Work Email**:***johnd@3minvestments.gr***
+- **Work Email**: ***johnd@3minvestments.gr***
 - **LinkedIn**: [click here]()
 
 ---
